@@ -1,4 +1,4 @@
-bluesky-cbc-bc-rss-feedbot
+bluesky-cbc-bc-rss-feedbot (Disabled)
 ==========================
 
 Uses GitHub Actions to generate a feed for BlueSky from the
